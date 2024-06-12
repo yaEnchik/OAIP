@@ -5,6 +5,7 @@
 #include <memory>
 #include <algorithm>
 
+
 // Абстрактный класс Flower
 class Flower {
 public:
